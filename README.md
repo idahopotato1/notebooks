@@ -8,6 +8,8 @@
   <a href="https://stackoverflow.com/questions/tagged/atoti"><img src="https://img.shields.io/badge/StackOverflow-atoti-f58024.svg" alt="gitter"></a>
 </p>
 
+notebook - https://mybinder.org/v2/gh/idahopotato1/notebooks.git/HEAD
+
 Welcome to the official **atoti** Notebooks Gallery!
 
 ### atoti
